@@ -1,0 +1,34 @@
+term,bls_occupation,female,male,gendered_n,observed_female_pct,ci95_low,ci95_high,bls_female_pct,gap_pts,z,p_value,cohens_h,effect,median_wage_usd,rows_to_parity,low_confidence
+writer,Writers and authors,97,480,577,16.81,13.98,20.08,66.8,"-49.99","-25.498",0.000e+0,"-1.069",large,73690,869,false
+coach,Coaches and scouts,145,1670,1815,7.99,6.83,9.33,47.4,"-39.41","-33.626",0.000e+0,"-0.946",large,44890,1360,false
+mechanic,Automotive service technicians and mechanics,58,103,161,36.02,29.01,43.69,1.8,34.22,32.663,0.000e+0,1.018,large,47770,3062,false
+waiter,Waiters and waitresses,21,35,56,37.50,26.01,50.59,69.8,"-32.30","-5.265",1.408e-7,"-0.660",medium,31940,60,true
+surgeon,Surgeons,76,60,136,55.88,47.49,63.95,25.9,29.98,7.981,1.332e-15,0.621,medium,239200,158,true
+secretary,Secretaries and administrative assistants,43,26,69,62.32,50.52,72.82,91.9,"-29.58","-9.006",0.000e+0,"-0.745",medium,44080,252,true
+manager,Management occupations,85,596,681,12.48,10.21,15.18,41.8,"-29.32","-15.512",0.000e+0,"-0.684",medium,116880,344,false
+artist,Artists and related workers,5571,10995,16566,33.63,32.91,34.35,59.9,"-26.27","-68.992",0.000e+0,"-0.533",medium,59000,10853,false
+designer,Graphic designers,444,1138,1582,28.07,25.91,30.33,54.2,"-26.13","-20.863",0.000e+0,"-0.538",medium,58910,903,false
+dentist,Dentists,166,102,268,61.94,56.00,67.55,38.6,23.34,7.849,4.219e-15,0.471,small,166300,163,false
+singer,Musicians and singers,942,761,1703,55.31,52.94,57.66,34.1,21.21,18.468,0.000e+0,0.430,small,39000,1060,false
+nurse,Registered nurses,318,158,476,66.81,62.46,70.89,87.3,"-20.49","-13.428",0.000e+0,"-0.499",small,86070,769,false
+professor,Postsecondary teachers,37,79,116,31.90,24.11,40.84,52.3,"-20.40","-4.400",1.085e-5,"-0.417",small,84380,50,true
+lawyer,Lawyers,26,86,112,23.21,16.36,31.84,42.9,"-19.69","-4.209",2.563e-5,"-0.423",small,145760,39,true
+ceo,Chief executives,10,64,74,13.51,7.51,23.12,33,"-19.49","-3.565",3.640e-4,"-0.471",small,206680,22,true
+pilot,Aircraft pilots and flight engineers,39,117,156,25.00,18.86,32.34,7,18.00,8.811,0.000e+0,0.512,medium,219140,402,false
+builder,Construction and extraction occupations,70,258,328,21.34,17.25,26.09,4.3,17.04,15.214,0.000e+0,0.543,medium,55680,1300,false
+photographer,Photographers,252,468,720,35.00,31.60,38.56,50.7,"-15.70","-8.426",0.000e+0,"-0.319",small,40170,230,false
+teacher,Elementary and middle school teachers,388,215,603,64.34,60.44,68.07,79.2,"-14.86","-8.987",0.000e+0,"-0.333",small,63680,431,false
+judge,"Judges, magistrates, and other judicial workers",46,83,129,35.66,27.92,44.23,50.5,"-14.84","-3.371",7.479e-4,"-0.301",small,151990,39,true
+firefighter,Firefighters,17,70,87,19.54,12.57,29.08,5.1,14.44,6.122,9.259e-10,0.460,small,57120,247,true
+musician,Musicians and singers,84,329,413,20.34,16.74,24.49,34.1,"-13.76","-5.899",3.661e-9,"-0.311",small,39000,87,false
+police,Police officers,377,877,1254,30.06,27.59,32.66,16.4,13.66,13.068,0.000e+0,0.327,small,74910,1045,false
+driver,Driver/sales workers and truck drivers,202,792,994,20.32,17.94,22.94,7.7,12.62,14.927,0.000e+0,0.373,small,54320,1630,false
+doctor,Other physicians,635,550,1185,53.59,50.74,56.41,41.7,11.89,8.299,0.000e+0,0.239,small,239200,338,false
+bartender,Bartenders,37,42,79,46.84,36.24,57.73,57.2,"-10.36","-1.862",6.262e-2,"-0.208",small,31510,20,true
+farmer,"Farmers, ranchers, and other agricultural managers",112,590,702,15.95,13.43,18.85,25.7,"-9.75","-5.909",3.453e-9,"-0.241",small,83770,93,false
+chef,Chefs and head cooks,195,352,547,35.65,31.75,39.75,26.4,9.25,4.907,9.245e-7,0.200,small,58920,192,false
+journalist,"News analysts, reporters, and journalists",120,248,368,32.61,28.02,37.56,41.1,"-8.49","-3.311",9.307e-4,"-0.176",negligible,57500,54,false
+engineer,Architecture and engineering occupations,28,74,102,27.45,19.73,36.81,19.3,8.15,2.086,3.699e-2,0.193,negligible,91420,44,true
+cook,Cooks,78,75,153,50.98,43.13,58.78,43.7,7.28,1.816,6.944e-2,0.146,negligible,34450,26,false
+executive,Chief executives,59,89,148,39.86,32.33,47.91,33,6.86,1.776,7.572e-2,0.143,negligible,206680,31,true
+scientist,"Life, physical, and social science occupations",91,74,165,55.15,47.53,62.54,49.4,5.75,1.478,1.395e-1,0.115,negligible,78980,20,false
